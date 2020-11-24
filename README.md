@@ -1,6 +1,6 @@
 # 20MOB-cross-plataform-challenge
 
-Desafio de desenvolvido de plataforma web usando bootstrap
+Desafio de desenvolvido de plataforma web usando bootstrap, projeto Pricing
 
 Contribuintes:
 * Welton Dornelas Magalhaes RM336708
